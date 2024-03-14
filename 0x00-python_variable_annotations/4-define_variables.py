@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 '''
-    Description: Defining the variables
+    Description: Defining the variables.
+    Parameter: a: int, pi: float, i_understand_annotation: bool,
+                school: str
 '''
 
 
