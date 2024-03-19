@@ -4,10 +4,6 @@ Back-end
 
 # Project: 0x02. Python - Async Comprehension | Lagos Intranet
 
-> ## Excerpt
-> Write a coroutine called async_generator that takes no arguments.
-
----
 ## Resources
 
 **Read or watch**:
