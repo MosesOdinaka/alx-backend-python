@@ -2,13 +2,6 @@
 Python
 Back-end
 
----
-created: 2024-03-19T11:24:32 (UTC +01:00)
-tags: []
-source: https://intranet.alxswe.com/projects/1231
-author: 
----
-
 # Project: 0x02. Python - Async Comprehension | Lagos Intranet
 
 > ## Excerpt
